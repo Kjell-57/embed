@@ -1,5 +1,5 @@
 # embed
-The HTML tag &lt;embed> need a function to make cross reference easy.
+The HTML tag &lt;embed&gt; need a function to make cross reference easy.
 
 Hello
 
@@ -14,18 +14,18 @@ I have tried javascript but that does not work, because of some security rules:
 You need to have both documents open at the same time. Who does?
 
 There is a html tag that easily could be used to make it all work, if it had that
-function, but it doesn't, today, and that is <embed>.
+function, but it doesn't, today, and that is &lt;embed&gt;.
 
 Today it works like this:
-<embed type="text/html" src="file.html">
+&lt;embed type="text/html" src="file.html"&gt;
 and it works perfectly and instantly.
 
 The problem with this tag is that I always get the whole document, not just that
 part of the document that I want. And it always starts in the upper left corner.
 
-But what if I could use <embed> by writing something like this:
+But what if I could use &lt;embed&gt; by writing something like this:
 
-<embed type="text/element" src="#uniqueId">
+&lt;embed type="text/element" src="#uniqueId"&gt;
 
 And get only the text within that element, without any formatting or tags:
 formatting takes place in the target place.
