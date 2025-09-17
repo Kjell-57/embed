@@ -25,7 +25,7 @@ part of the document that I want. And it always starts in the upper left corner.
 
 But what if I could use &lt;embed&gt; by writing something like this:
 
-&lt;embed type="text/element" src="#uniqueId"&gt;
+&lt;embed type="text/element" src="#uniqueID"&gt;
 
 And get only the text within that element, without any formatting or tags:
 formatting takes place in the target place.
