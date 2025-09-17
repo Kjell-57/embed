@@ -33,8 +33,8 @@ formatting takes place in the target place.
 That would solve the problem instantly. Just one short line, and it's done.
 
 I'm conviced that I'm far from alone with this request, and I'm also convinced
-that it is far better to have as much functions as possible in html tags than in a
-javascript or any other programming language.
+that it is far better to have as much functions as possible in html tags than have
+to add javascript or any other programming language.
 
 I hope someone will see the great need and use of this function and grant us this
 request. It would help a lot. Making a homesite should always be simple.
